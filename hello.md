@@ -16,5 +16,11 @@
 
 3. git commit [-m <"修改的内容解释">]
 ```
+###### Merge:
+```
+1. git fetch <远程主机名> <远程分支名>
+
+2. git merge <要合并的分支>
+```
 hi
 nihao
